@@ -1,5 +1,5 @@
 
-var cities = ["Riyadh","Baghdad","Dubai"]
+var cities = ["Riyadh","Baghdad","Casablanca"]
 print(cities[1])
 var countries : [String] = ["KSA","UAE","Iraq"]
 print(countries)
